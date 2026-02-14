@@ -9,9 +9,13 @@ An intelligent automation system designed to streamline the recruitment process.
 
 --------------------------------------------------------------------------------
 🌟 Key Strengths
+
 • Automated Intelligence: Eliminates manual sorting by using Machine Learning to classify resumes into relevant industry categories or roles.
+
 • Transparent Workflow: Built entirely in Jupyter Notebooks, ensuring that every step—from data cleaning to model training—is visible and easy to follow.
+
 • Ready for Presentation: Includes a dedicated presentation file specifically designed to showcase the project’s findings and efficiency to stakeholders.
+
 • Scalable Framework: The architecture is designed to handle diverse resume formats and can be expanded to include more complex job categories.
 
 --------------------------------------------------------------------------------
