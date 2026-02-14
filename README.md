@@ -1,4 +1,8 @@
-🤖 AI-Powered Resume Analyzer
+<img width="1872" height="1845" alt="image" src="https://github.com/user-attachments/assets/336c1ad7-906c-43bb-b5fa-fa896bda5a14" />
+
+
+
+AI-Powered Resume Analyzer
  
 An intelligent automation system designed to streamline the recruitment process. This project leverages Machine Learning to transform the way organizations handle job applications by automatically analyzing and categorizing resumes.
 
