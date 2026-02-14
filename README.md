@@ -20,8 +20,11 @@ An intelligent automation system designed to streamline the recruitment process.
 
 --------------------------------------------------------------------------------
 📂 Project Structure
+
 The repository is organized into two primary components that handle the technical heavy lifting and the final delivery:
+
 • Resume_Categorization ML.ipynb: The core engine of the project. This notebook contains the end-to-end Machine Learning pipeline, including data preprocessing, feature engineering, and model evaluation.
+
 • Pres.ipynb: A structured presentation notebook that summarizes the methodology and results, making it perfect for demonstrating the project's value to non-technical audiences.
 
 --------------------------------------------------------------------------------
