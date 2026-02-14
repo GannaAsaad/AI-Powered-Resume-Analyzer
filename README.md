@@ -47,10 +47,6 @@ The analyzer follows a professional data science workflow:
 4. Classification: Applies trained models to categorize resumes into specific job sectors accurately.
 
 --------------------------------------------------------------------------------
-👤 Author
-Ganna Asaad
-• GitHub: @GannaAsaad
 
---------------------------------------------------------------------------------
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. Feel free to fork the repo and create a pull request!
